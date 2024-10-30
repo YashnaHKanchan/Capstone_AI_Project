@@ -1,0 +1,57 @@
+JD Filename,CV Filename,Similarity Score,Skill Match Score,RFM Score,Weighted Score,Years of Experience,Matched Skills,MNC Match,Institution Match,Rank
+Devops Engineer.docx,Sanjeev Kumar.docx,0.43,80,49,0.77,16,"['Kubernetes', 'Git', 'Azure', 'Python', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,TRUE,1
+Devops Engineer.docx,Dineshkumar.pdf,0.58,70,25,0.73,3,"['Kubernetes', 'Git', 'Python', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,2
+Devops Engineer.docx,NarayanaReddy.pdf,0.54,70,29.8,0.72,7.8,"['Kubernetes', 'Git', 'Azure', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,3
+Devops Engineer.docx,Sai_Venkatesh.pdf,0.47,80,30,0.72,7,"['Kubernetes', 'Git', 'Azure', 'Python', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,4
+Devops Engineer.docx,Harsha.docx,0.46,70,34.5,0.69,12.5,"['Kubernetes', 'Git', 'Python', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,5
+Devops Engineer.docx,Raj Kumar.pdf,0.5,60,29,0.66,8,"['Kubernetes', 'Git', 'Azure', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,6
+Devops Engineer.docx,ANKITA.docx,0.54,60,24,0.66,3,"['Kubernetes', 'Git', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,7
+Devops Engineer.docx,Naukri_AmitBajpai.pdf,0.48,50,34,0.62,14,"['Git', 'CI/CD', 'Jenkins', 'AWS', 'Docker']",TRUE,FALSE,8
+Devops Engineer.docx,Abhilash Subudhi.pdf,0.46,50,28.8,0.59,8.8,"['Git', 'Azure', 'Python', 'AWS', 'Docker']",TRUE,FALSE,9
+Devops Engineer.docx,Abhishek.pdf,0.48,50,23,0.58,3,"['Azure', 'Python', 'CI/CD', 'Jenkins', 'AWS']",TRUE,FALSE,10
+Devops Engineer.docx,Ramalakshmi K.docx,0.44,20,19.5,0.42,2.5,"['Python', 'AWS']",TRUE,FALSE,11
+Devops Engineer.docx,"Dandamudi, Vijaya Krishna Amrutha.pdf",0.37,10,31,0.39,15,['Python'],TRUE,FALSE,12
+Devops Engineer.docx,ChinnaSubbarayuduM.docx,0.5,0,20.1,0.38,5.1,[],TRUE,FALSE,13
+Devops Engineer.docx,Varkala Vikas.docx,0.46,0,19.2,0.35,4.2,[],TRUE,FALSE,14
+Devops Engineer.docx,Vivekanand Sayana.docx,0.41,0,22.5,0.34,7.5,[],TRUE,FALSE,15
+Devops Engineer.docx,Vinay Kumar.docx,0.44,0,19.2,0.34,4.2,[],TRUE,FALSE,16
+Devops Engineer.docx,Krishna Kanth Musquare.docx,0.3,20,20.2,0.34,3.2,"['Git', 'Jenkins']",TRUE,FALSE,17
+Devops Engineer.docx,Krishna Kanth.docx,0.3,20,20.2,0.34,3.2,"['Git', 'Jenkins']",TRUE,FALSE,18
+Devops Engineer.docx,SSKumar.docx,0.41,0,21,0.33,6,[],TRUE,FALSE,19
+Devops Engineer.docx,SirazuddinMohammad.docx,0.39,0,21.8,0.32,6.8,[],TRUE,FALSE,20
+Devops Engineer.docx,Mooraboyina Guravaiah.docx,0.5,0,5,0.32,5,[],FALSE,FALSE,21
+Devops Engineer.docx,Rahul M.docx,0.4,0,20,0.32,5,[],TRUE,FALSE,22
+Devops Engineer.docx,kamballapradeep.docx,0.41,0,17.8,0.32,2.8,[],TRUE,FALSE,23
+Devops Engineer.docx,premsai.docx,0.42,0,17.6,0.32,2.6,[],TRUE,FALSE,24
+Devops Engineer.docx,Gopi Krishna.docx,0.49,0,3,0.31,3,[],FALSE,FALSE,25
+Devops Engineer.docx,Rajupavanakumari.docx,0.4,0,17.1,0.31,2.1,[],TRUE,FALSE,26
+Devops Engineer.docx,AradhanaTripathi.docx,0.33,20,6,0.3,4,"['Python', 'AWS']",FALSE,FALSE,27
+Devops Engineer.docx,Rutuja.pdf,0.24,20,19.5,0.3,2.5,"['Git', 'Jenkins']",TRUE,FALSE,28
+Devops Engineer.docx,Anil Kumar.docx,0.39,0,17.4,0.3,2.4,[],TRUE,FALSE,29
+Devops Engineer.docx,Murali.docx,0.34,0,21,0.29,6,[],TRUE,FALSE,30
+Devops Engineer.docx,Srikanth.docx,0.36,0,19,0.29,4,[],TRUE,FALSE,31
+Devops Engineer.docx,Kotani Durgaprasad.docx,0.36,0,18.1,0.29,3.1,[],TRUE,FALSE,32
+Devops Engineer.docx,PSyamKumar.docx,0.37,0,17.3,0.29,2.3,[],TRUE,FALSE,33
+Devops Engineer.docx,Subha Santosh.docx,0.34,0,18.2,0.28,3.2,[],TRUE,FALSE,34
+Devops Engineer.docx,RameshNataru.docx,0.36,0,16,0.28,1,[],TRUE,FALSE,35
+Devops Engineer.docx,Shaik Abdul Sharuk.docx,0.27,10,18,0.27,2,['Git'],TRUE,FALSE,36
+Devops Engineer.docx,P V Sai Krishna.docx,0.41,0,3,0.26,3,[],FALSE,FALSE,37
+Devops Engineer.docx,Pragnya.docx,0.32,0,17,0.26,2,[],TRUE,FALSE,38
+Devops Engineer.docx,SUJATHA.docx,0.29,0,18.6,0.25,3.6,[],TRUE,FALSE,39
+Devops Engineer.docx,Jyotiverma.docx,0.4,0,3,0.25,3,[],FALSE,FALSE,40
+Devops Engineer.docx,Neeraj Mishra.docx,0.28,0,18,0.24,3,[],TRUE,FALSE,41
+Devops Engineer.docx,Sarala Madasu.docx,0.38,0,3,0.24,3,[],FALSE,FALSE,42
+Devops Engineer.docx,Ramesh P.docx,0.34,0,5,0.22,5,[],FALSE,FALSE,43
+Devops Engineer.docx,HariNarayana.docx,0.23,0,19.6,0.22,4.6,[],TRUE,FALSE,44
+Devops Engineer.docx,M_Murali.docx,0.23,0,19.6,0.22,4.6,[],TRUE,FALSE,45
+Devops Engineer.docx,Deepak reddy.docx,0.36,0,2,0.22,2,[],FALSE,FALSE,46
+Devops Engineer.docx,M Lokesh Babu.docx,0.36,0,2,0.22,2,[],FALSE,FALSE,47
+Devops Engineer.docx,M Lokesh.docx,0.36,0,2,0.22,2,[],FALSE,FALSE,48
+Devops Engineer.docx,Buddha Vamsi.docx,0.24,0,17.11,0.21,2.11,[],TRUE,FALSE,49
+Devops Engineer.docx,Thirupathiamma.docx,0.31,0,2.8,0.2,2.8,[],FALSE,FALSE,50
+Devops Engineer.docx,Prabakaran.pdf,0.24,10,3.4,0.2,2.4,['AWS'],FALSE,FALSE,51
+Devops Engineer.docx,Kamalakar Reddy.docx,0.28,0,3,0.18,3,[],FALSE,FALSE,52
+Devops Engineer.docx,Himaja G.docx,0.28,0,2,0.18,2,[],FALSE,FALSE,53
+Devops Engineer.docx,Naveen sadhu.docx,0.29,0,1,0.18,1,[],FALSE,FALSE,54
+Devops Engineer.docx,Pranish Sonone.docx,0.3,0,1,0.18,1,[],FALSE,FALSE,55
+Devops Engineer.docx,Ranga Gaganam.docx,0.3,0,1,0.18,1,[],FALSE,FALSE,56

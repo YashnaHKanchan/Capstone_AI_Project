@@ -1,0 +1,24 @@
+Kubernetes
+Jenkins
+Terraform
+Git
+Linux
+Docker
+Prometheus
+ELK Stack
+AWS Lambda
+Azure DevOps
+Istio
+Helm
+Selenium
+Puppet
+SaltStack
+OpenShift
+Bash Scripting
+Python Scripting
+Networking
+Load Balancers
+Virtual Machines
+Containers
+Cloud Security
+SSL/TLS

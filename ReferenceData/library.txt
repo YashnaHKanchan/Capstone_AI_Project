@@ -1,0 +1,21 @@
+Python
+Java
+JavaScript
+SQL
+C++
+Docker
+Kubernetes
+CI/CD
+AWS
+Azure
+GCP
+Terraform
+Ansible
+Linux
+Microservices
+Cloud Infrastructure
+API Development
+Agile Methodology
+Jenkins
+Maven
+Git

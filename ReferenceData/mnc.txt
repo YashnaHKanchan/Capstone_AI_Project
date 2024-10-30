@@ -1,0 +1,24 @@
+Google
+Microsoft
+Amazon
+Apple
+Facebook
+IBM
+Intel
+Oracle
+Cisco
+Dell
+SAP
+Salesforce
+Adobe
+Siemens
+Accenture
+Tata Consultancy Services (TCS)
+Infosys
+Wipro
+Cognizant
+Deloitte
+EY
+PwC
+KPMG
+Capgemini
