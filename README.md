@@ -21,7 +21,7 @@ This project provides a tool to evaluate and score resumes based on a given job 
 - plotly
 
 ## Installation
-1. Clone the repo: `git clone <repo-url>`
+1. Clone the repo: `git clone https://github.com/YashnaHKanchan/Capstone_AI_Project.git`
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
