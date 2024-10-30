@@ -10,15 +10,15 @@ This project provides a tool to evaluate and score resumes based on a given job 
 - Ranked Output.
 
 ## Requirements
-os
-pandas
-sklearn
-PyPDF2
-python-docx
-re
-dash
-dash-bootstrap-components
-plotly
+- os
+- pandas
+- sklearn
+- PyPDF2
+- python-docx
+- re
+- dash
+- dash-bootstrap-components
+- plotly
 
 ## Installation
 1. Clone the repo: `git clone <repo-url>`
