@@ -1,4 +1,4 @@
-# Resume Analysis Tool
+# Smart ATS
 
 This project provides a tool to evaluate and score resumes based on a given job description (JD). It scores resumes on skill matches, experience, MNC exposure, and educational background, and ranks them to highlight the best candidates.
 
